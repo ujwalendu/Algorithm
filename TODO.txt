@@ -1,0 +1,2 @@
+
+** enhance Makefile to compile all .c files to .o files as well as clean .o files
